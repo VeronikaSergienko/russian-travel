@@ -1,7 +1,5 @@
 .header {
-    border: 1px red solid;
     margin: 28px auto 0;
-    width: 1184px;
     display: flex;
     justify-content: space-between;
 }
