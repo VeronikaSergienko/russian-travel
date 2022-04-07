@@ -3,8 +3,20 @@
     font-size: 72px;
     line-height: 1.06;
     text-align: center;
-    width: 560px;
-    height: 152px;
+    max-width: 560px;
+    max-height: 152px;
     z-index: 2;
-    margin: 0;
+    margin: 0 auto 16px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 568px) {
+    .cover__title{
+        font-size: 32px;
+        line-height: 1.09;
+        max-width: 288px;
+        max-height: 70px;
+        margin: 0 auto 8px;
+    }
 }
