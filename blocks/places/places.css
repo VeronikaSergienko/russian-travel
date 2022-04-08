@@ -2,6 +2,7 @@
     padding: 0 148px 0;
     display: grid;
     gap: 80px;
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 1140px) {
