@@ -15,7 +15,7 @@
 * HTML5
 * CSS3
 
-**GitHab**
+**GitHub**
 
 * [Ссылка на проект](https://github.com/VeronikaSergienko/russian-travel)
 
