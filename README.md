@@ -17,7 +17,7 @@
 
 **GitHub**
 
-* [Ссылка на проект](https://github.com/VeronikaSergienko/russian-travel)
+* [Ссылка на проект](https://veronikasergienko.github.io/russian-travel/index.html)
 
 **Figma**
 
