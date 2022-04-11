@@ -7,18 +7,20 @@
 
 @media screen and (max-width: 1140px) {
     .header {
-        padding: 0 24px 48px;
+        padding-bottom: 48px;
     }
 }
 
 @media screen and (max-width: 984px) {
     .header {
-        padding: 0 24px 48px;
+        padding-left: 24px;
+        padding-right: 24px;
     }
 }
 
 @media screen and (max-width: 720px) {
     .header {
-        padding: 0 16px 48px;
+        padding-left: 16px;
+        padding-right: 16px;
     }
 }

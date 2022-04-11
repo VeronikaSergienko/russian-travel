@@ -7,14 +7,18 @@
 
 @media screen and (max-width: 984px) {
     .footer {
-        padding: 88px 24px 0;
+        padding-top: 88px;
+        padding-right: 24px;
+        padding-left: 24px;
     }    
 }
 
 
 @media screen and (max-width: 678px) {
     .footer {
-        padding: 64px 16px 0;
+        padding-top: 64px;
+        padding-left: 16px;
+        padding-right: 16px;
         flex-direction: column;
     }
     
